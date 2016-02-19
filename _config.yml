@@ -2,6 +2,7 @@ name: Test site for fSquared Marketing
 favicon: null
 layout_spectrum: 0.3376411672215909
 typography_spectrum: 0.5562555519863963
+title: fSquared Marketing
 cta:
   domain: null
   bucket: null
